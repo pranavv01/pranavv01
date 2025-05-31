@@ -1,17 +1,17 @@
-### 💫 About Me:
+## 💫 About Me:
 💻 **Software Developer | Java & Spring Boot Enthusiast**  
 🚀 Passionate about building scalable backend systems and solving real-world problems  
 🌱 Continuously learning and exploring new technologies  
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-📧 your.email@example.com
+## 🌐 Socials:
+www.linkedin.com/in/pranvanandd
+📧 pranavvanandd@gmail.com
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -40,24 +40,10 @@
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&show_icons=true&hide_border=false&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&show_icons=true&hide_border=false&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=4)
-
----
-
-### ✍️ Dev Quote:
+## ✍️ Dev Quote:
 > “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 Feel free to reach out for collaboration, mentorship, or just a good tech talk!
