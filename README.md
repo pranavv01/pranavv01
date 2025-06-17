@@ -1,7 +1,7 @@
 ## 💫 About Me:
 💻 **Software Developer | Java & Spring Boot Enthusiast**  
 🚀 Passionate about building scalable backend systems and solving real-world problems  
-🌱 Continuously learning and exploring new technologies  
+🌱 Continuously learning and exploring new technologies.
 
 ---
 
