@@ -6,7 +6,7 @@
 
 Building intelligent systems for energy analytics, document retrieval, and accessible computing.
 
-[LinkedIn](https://www.linkedin.com/in/pranvanandd) &nbsp;&middot;&nbsp; [Email](mailto:pranavvanandd@gmail.com) &nbsp;&middot;&nbsp; Chandigarh, India
+[Portfolio](https://pranavv01.github.io) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/pranvanandd) &nbsp;&middot;&nbsp; [Email](mailto:pranavvanandd@gmail.com) &nbsp;&middot;&nbsp; Chandigarh, India
 
 </div>
 
